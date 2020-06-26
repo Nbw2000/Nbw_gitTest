@@ -1,6 +1,7 @@
 
 
 
-		//Hello Git
+		//Hello Github
 		//
 		//It's my first git
+		//June 26, 2020
